@@ -1,4 +1,6 @@
 ---
+layout: page
+title: Moby Dick
 ---
 <meta charset="utf-8">
 # CHAPTER 1. Loomings.
