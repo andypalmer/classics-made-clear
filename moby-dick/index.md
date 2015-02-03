@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Moby Dick
+redirect_from:
+  - /
+  - /404.html
 ---
 <meta charset="utf-8">
 # CHAPTER 1. Loomings.
