@@ -54,3 +54,5 @@ baseurl: ""
 #    share_url:
 #    share_title:
 #    share_link:
+
+theme: jekyll-theme-minimal
